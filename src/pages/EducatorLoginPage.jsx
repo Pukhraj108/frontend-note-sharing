@@ -93,6 +93,3 @@ export default function EducatorLoginPage() {
    </div>
  );
 }
-
-
-//https://github.com/Pukhraj108/frontend-note-sharing.git
