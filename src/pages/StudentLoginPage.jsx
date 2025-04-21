@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import 'animate.css';
 
 
-export default function StudentLoginPage() {
+export default function  StudentLoginpage () {
  const [userId, setUserId] = useState('');
  const [loading, setLoading] = useState(false);
  const [studentName, setStudentName] = useState('');
